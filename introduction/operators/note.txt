@@ -1,0 +1,7 @@
+
+
+
+Even though Kotlin supports Bitwise and other types i am not considering it as its advance topic.
+// Bitwise
+// Invoke
+// in and !in
